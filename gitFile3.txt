@@ -1,0 +1,8 @@
+List of sports:
+Football
+Basketball
+Hockey
+Volleyball
+Swimmming
+Curling
+
