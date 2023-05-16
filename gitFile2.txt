@@ -5,3 +5,5 @@ Mango
 Pineapple
 Watermelon
 Banana
+Pear
+
