@@ -1,4 +1,4 @@
-for (( i=o; i<4; i++ ))
+for (( i=o; i<10;i++ ))
 do
 echo $i
 done
